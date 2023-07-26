@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="MyGradle" target="19" />
+      <module name="MyGradle.main" target="19" />
+      <module name="MyGradle.test" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
